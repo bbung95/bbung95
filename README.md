@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img alt="Java" src ="https://img.shields.io/badge/Java-#007396.svg?&style=for-the-badge&logo=Java&logoColor=White"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbung95&count_bg=%23C7DFDB&title_bg=%239AE4ED&icon=&icon_color=%23605454&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <!--
 **bbung95/bbung95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
